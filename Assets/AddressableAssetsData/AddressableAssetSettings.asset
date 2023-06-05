@@ -64,7 +64,7 @@ MonoBehaviour:
       - m_Id: b42e3d7bca6e8cc48bb0dece44cd3bdc
         m_Value: ServerData/[BuildTarget]
       - m_Id: 7213dd9230dfd2c438224b53a79c0e6c
-        m_Value: http://127.0.0.1:8080
+        m_Value: http://127.0.0.1:8080/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: 8ea5e0ca26aa92047a6156ea33cce811
       m_Name: BuildTarget
